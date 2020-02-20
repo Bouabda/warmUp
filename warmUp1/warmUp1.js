@@ -5,6 +5,7 @@
 // 4-calculate your age in seconds.
 
 // your code is here
+<<<<<<< HEAD
 
 //1
 function name(firstName, lastName) {
@@ -56,3 +57,5 @@ function average(arr) {
 // }
 //age=26*365*24*60
 
+=======
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6

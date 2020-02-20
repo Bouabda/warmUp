@@ -4,7 +4,7 @@
 //              array: [ 2, 3, 3, "a" ],  sub:[ 3, 3, 3, "a" ] => false
 
 function isSubset(arr1, arr2) {
-    if (arr1.length >= arr2.length) {
+    if (arr1.length > arr2.length) {
         for (var i = 0; i < arr2.length; i++) {
             if (arr1.includes(arr2[i]) === true) {
                 return true
